@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I've personally created and launched over 10 SaaS and AI applications in the past 3 years.
+I've personally created and launched over 3 SaaS and AI applications in the past 3 years.
 
 I have hands-on experience in:
 
